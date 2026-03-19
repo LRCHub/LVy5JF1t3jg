@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "Lovin' you",
+  "base_artist": "King & Prince",
+  "createdAt": "2026-03-19T12:25:07.992619Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chance of Lovin' You",
+      "artist": "Earl Thomas Conley",
+      "has_synced": true,
+      "path": "select/01_Chance_of_Lovin'_You_Earl_Thomas_Conley.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Be Lovin' You",
+      "artist": "Miranda Lambert",
+      "has_synced": false,
+      "path": "select/02_I'll_Be_Lovin'_You_Miranda_Lambert.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If You Ain't Lovin' (You Ain't Livin')",
+      "artist": "Faron Young",
+      "has_synced": true,
+      "path": "select/03_If_You_Ain't_Lovin'_(You_Ain't_Livin')_Faron_Young.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If You Ain't Lovin' (You Ain't Livin')",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/04_If_You_Ain't_Lovin'_(You_Ain't_Livin')_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If You Ain't Lovin' (You Ain't Livin') (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/05_If_You_Ain't_Lovin'_(You_Ain't_Livin')_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Just Got Started Lovin' You",
+      "artist": "James Otto",
+      "has_synced": true,
+      "path": "select/06_Just_Got_Started_Lovin'_You_James_Otto.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Just Got Started Lovin' You (Album Version)",
+      "artist": "James Otto",
+      "has_synced": true,
+      "path": "select/07_Just_Got_Started_Lovin'_You_(Album_Version)_James_Otto.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "That Lovin' You Feelin' Again",
+      "artist": "Emmylou Harris feat. Roy Orbison",
+      "has_synced": false,
+      "path": "select/08_That_Lovin'_You_Feelin'_Again_Emmylou_Harris_feat._Roy_Orbison.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lovin' You Ain't Easy",
+      "artist": "Michel Pagliaro",
+      "has_synced": false,
+      "path": "select/09_Lovin'_You_Ain't_Easy_Michel_Pagliaro.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lovin' You Ain't Easy",
+      "artist": "Michel Pagliaro",
+      "has_synced": true,
+      "path": "select/10_Lovin'_You_Ain't_Easy_Michel_Pagliaro.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lovin' You Lovin' Me (Delaney Bramlett Mix)",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/11_Lovin'_You_Lovin'_Me_(Delaney_Bramlett_Mix)_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lovin' You Lovin' Me",
+      "artist": "Eric Clapton Delaney Bramlett",
+      "has_synced": true,
+      "path": "select/12_Lovin'_You_Lovin'_Me_Eric_Clapton_Delaney_Bramlett.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Was Made For Lovin' You",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/13_I_Was_Made_For_Lovin'_You_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bad Case of Lovin' You (Doctor, Doctor)",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/14_Bad_Case_of_Lovin'_You_(Doctor,_Doctor)_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bad Case of Lovin’ You (Doctor, Doctor)",
+      "artist": "Robert Palmer",
+      "has_synced": true,
+      "path": "select/15_Bad_Case_of_Lovin’_You_(Doctor,_Doctor)_Robert_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lovin' You Baby",
+      "artist": "Laura Branigan",
+      "has_synced": true,
+      "path": "select/16_Lovin'_You_Baby_Laura_Branigan.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lovin' You Madly",
+      "artist": "Narada Michael Walden",
+      "has_synced": true,
+      "path": "select/17_Lovin'_You_Madly_Narada_Michael_Walden.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Huntin', Fishin' And Lovin' Every Day",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/18_Huntin',_Fishin'_And_Lovin'_Every_Day_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lovin' On You",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/19_Lovin'_On_You_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Country Boy Lovin'",
+      "artist": "Dillon Carmichael",
+      "has_synced": true,
+      "path": "select/20_Country_Boy_Lovin'_Dillon_Carmichael.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Don't Come Home a Drinkin' (With Lovin' On Your Mind) - Single Version",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/21_Don't_Come_Home_a_Drinkin'_(With_Lovin'_On_Your_Mind)_-_Single_Version_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Don't Come Home A-Drinkin' (With Lovin' On Your Mind) (Single Version)",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/22_Don't_Come_Home_A-Drinkin'_(With_Lovin'_On_Your_Mind)_(Single_Version)_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Don't Come Home A-Drinkin' (With Lovin' On Your Mind) (Single Version)",
+      "artist": "Loretta Lynn",
+      "has_synced": true,
+      "path": "select/23_Don't_Come_Home_A-Drinkin'_(With_Lovin'_On_Your_Mind)_(Single_Version)_Loretta_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Good Friends, Good Whiskey, Good Lovin'",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": false,
+      "path": "select/24_Good_Friends,_Good_Whiskey,_Good_Lovin'_Hank_Williams,_Jr..txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Good Lovin' (Makes It Right)",
+      "artist": "Tammy Wynette",
+      "has_synced": false,
+      "path": "select/25_Good_Lovin'_(Makes_It_Right)_Tammy_Wynette.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Just a Little Lovin' (Will Go a Long, Long Way)",
+      "artist": "Eddy Arnold",
+      "has_synced": false,
+      "path": "select/26_Just_a_Little_Lovin'_(Will_Go_a_Long,_Long_Way)_Eddy_Arnold.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lovin' you",
+      "artist": "King & Prince",
+      "has_synced": false,
+      "path": "select/pl_01_Lovin'_you_King_&_Prince.txt"
+    }
+  ]
+}
